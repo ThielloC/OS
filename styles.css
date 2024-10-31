@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url('fundo.jpeg'); /* Caminho relativo para a imagem */
+    background-size: cover; /* Faz com que a imagem cubra todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+}
+
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com um pouco de transparência */
+    padding: 20px;
+    border-radius: 8px; /* Canto arredondado */
+    opacity: 0.7; /* Adiciona uma opcidade de 70% ao container */
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+#add-item {
+    margin-top: 10px;
+}
+
+.item {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+    text-align: right;
+}

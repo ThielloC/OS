@@ -1,0 +1,8 @@
+Preciso de um código em JavaScript, HTML e CSS para um formulário de orçamento.
+Eu já tenho o meu PDF pronto e preciso que o código abra um formulário para o preenchimento das seguintes informações:
+Nome do cliente, quantidade, descrição, valor Unitário. Os itens quantidade, descrição e Valor unitário deve se repetir (na verdade eu quero que tenha um sinal de mais para adicionar outro formulário de quantidade, descrição e valor) pois vão haver orçamentos com mais de 1 item e devem está em um mesmo PDF e em lugares diferentes conforme a orientação que eu passar.
+Em relação aos valores, devem ser calculados todos os valores mencionados e colocado o resultado no campo Valor Total.
+
+Lembrando que no PDF já vem escrito os Títulos, Nome do Cliente, Quantidade, Descrição e Valor Unitário, então eu quero apenas que seja exibido os resultados. 
+
+IBMPlexSans-LightItalic.ttf
